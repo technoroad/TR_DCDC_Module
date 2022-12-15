@@ -1,0 +1,45 @@
+Partlist
+
+Exported from TR_i3_6A_Module_v11.brd at 2022/12/15 15:19
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package         Library          Position (inch)       Orientation
+
+C1       0.1uF_100V     C1608           my_rcl           (0.725 0.7)           MR270
+C2       0.1uF_100V     C1608           my_rcl           (1.6 0.7125)          MR270
+C3       1000pF_100V    C1608           my_rcl           (1.65 0.7125)         MR270
+CC1      220uF_100V     CC0510          my_rcl           (1.2 1.425)           R0
+CC2      220uF_100V     CC0510          my_rcl           (1.775 1.3875)        R180
+CC2\                    E7,5-16         rcl              (1.825 1.3875)        R180
+CN1      VL-2P          VL3-2P          my_con           (0.29375 0.8125)      R270
+CN2      VL-3P          VL3-3P          my_con           (2.16875 0.675)       R270
+CN3      XA-2P          XA-2P_NH        my_con           (0.4625 1.55)         R270
+CN4      EH-2P          EH-2P           my_con           (2.325 1.30625)       R90
+D1       SBM1060LSS     12.7MM          my_diode         (0.625 1.275)         R0
+D2       S-562T         S-XXXT          my_diode         (1.5 1.29375)         MR0
+D3       S-562T         S-XXXT          my_diode         (0.1875 1.375)        R180
+IC1      I3A            I3A_SERIES      my_reg           (1.06875 0.4875)      R0
+IC2      I6A            I6A_SERIES      my_reg           (1.225 0.5)           R0
+IC3      TLP172G        11-5H1          Original_Library (0.5875 1.275)        MR180
+JP1      Jumper         JP1D_HOLE       my_jumper        (0.85 1.6)            R270
+JP2      Jumper         R1608_LARGE_PAD my_rcl           (0.725 0.35)          MR90
+JP3      Jumper         R1608_LARGE_PAD my_rcl           (1.525 0.7125)        MR90
+JP4      Jumper         R1608_LARGE_PAD my_rcl           (1.01875 0.475)       MR0
+JP5      Jumper         R1608_LARGE_PAD my_rcl           (1.01875 0.375)       MR0
+JP6      Jumper         R1608_LARGE_PAD my_rcl           (1.19375 0.29375)     MR180
+LED1     Orange         SML1608         my_led           (0.35625 1.3625)      R180
+LED2     Green          SML1608         my_led           (1.4875 1.6625)       R0
+NTC1     SL22-0R712     SL22            Original_Library (1.375 0.95)          MR180
+PSW1     5A/10A_60V     PSW-10.16MM_4MM Original_Library (1.03125 1.05625)     R180
+Q1       BSS138         SOT-23-3        my_tr            (0.5875 1.475)        MR180
+R1       Open           R1608_LARGE_PAD my_rcl           (1.09375 0.525)       MR90
+R2       Open           R1608_LARGE_PAD my_rcl           (1.09375 0.425)       MR90
+R3       Open           R1608_LARGE_PAD my_rcl           (1.09375 0.325)       MR90
+R4       Open           R1608_LARGE_PAD my_rcl           (0.94375 0.525)       MR90
+R5       Open           R1608_LARGE_PAD my_rcl           (0.94375 0.425)       MR90
+R6       Open           R1608_LARGE_PAD my_rcl           (0.94375 0.325)       MR90
+R7       10k            R1608_LARGE_PAD my_rcl           (0.30625 1.5625)      R270
+VR1      10k            3361P           my_rcl           (1.54375 0.36875)     MR0
