@@ -2,12 +2,12 @@ EAGLE AutoRouter Statistics:
 
 Job           : D:/Users/ogawa/Documents/eagle/TR_i3_6A_Module_v11/TR_i3_6A_Module_v11.brd
 
-Start at      : 15:07:29 (2022/12/16)
-End at        : 15:07:30 (2022/12/16)
+Start at      : 14:03:24 (2022/12/19)
+End at        : 14:03:25 (2022/12/19)
 Elapsed time  : 00:00:00
 
 Signals       :    18   RoutingGrid: 7.87402 mil  Layers: 2
-Connections   :    67   predefined:  67 ( 199 Vias )
+Connections   :    67   predefined:  67 ( 383 Vias )
 
 Router memory :   560416
 
