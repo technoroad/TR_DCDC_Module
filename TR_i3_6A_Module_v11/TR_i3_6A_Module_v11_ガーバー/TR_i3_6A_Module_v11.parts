@@ -1,6 +1,6 @@
 Partlist
 
-Exported from TR_i3_6A_Module_v11.brd at 2022/12/19 14:04
+Exported from TR_i3_6A_Module_v11.brd at 2022/12/20 11:21
 
 EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
 
@@ -32,7 +32,7 @@ JP5      Jumper         R1608_LARGE_PAD my_rcl           (1.01875 0.375)       M
 JP6      Jumper         R1608_LARGE_PAD my_rcl           (1.19375 0.29375)     MR180
 LED1     Orange         SML1608         my_led           (0.25 1.375)          R180
 LED2     Green          SML1608         my_led           (1.4875 1.6625)       R0
-NTC1     SL22-0R712     SL22            Original_Library (1.5375 0.96875)      MR180
+NTC1     SL22-0R712     SL22            Original_Library (1.5375 0.95)         MR180
 PSW1     5A/10A_60V     PSW-10.16MM_4MM Original_Library (0.89375 1.05)        R180
 Q1       BSS138         SOT-23-3        my_tr            (0.5875 1.475)        MR180
 R1       Open           R1608_LARGE_PAD my_rcl           (1.09375 0.525)       MR90
